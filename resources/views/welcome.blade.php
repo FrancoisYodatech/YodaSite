@@ -90,7 +90,6 @@
                     <a href="https://yodasite.app/facture/56">Facture (56)</a>
                     <a href="https://yodasite.app/users">Formulaire</a>
                     <a href="https://yodasite.app/photo">Upload d'Images</a>
-                    <a href="https://yodasite.app/page2/Francois">Les Robots</a>
                 </div>
             </div>
         </div>
