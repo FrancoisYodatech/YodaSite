@@ -23,9 +23,7 @@ Route::get('facture/{no}', 'Template1Controller@showFacture')->where('$no', '[0-
 // Route::get('facture/{no}', function ($no) {
 //     return view('facture')->withnumero($no); // peut s'écrire :   with('numero', $no);
 // })->where('no', '[0-9]+');
-Route::get('/page2/{name}', function ($name) {
-    return view('toto')->with('username', $name);
-});
+
 Route::get('/view1', function(){
   return view('View1');
 });
